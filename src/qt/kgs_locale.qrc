@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/kgs_bg.qm</file>
+        <file alias="ca">locale/kgs_ca.qm</file>
+        <file alias="cs">locale/kgs_cs.qm</file>
+        <file alias="da">locale/kgs_da.qm</file>
+        <file alias="de">locale/kgs_de.qm</file>
+        <file alias="en">locale/kgs_en.qm</file>
+        <file alias="en_US">locale/kgs_en_US.qm</file>
+        <file alias="eo">locale/kgs_eo.qm</file>
+        <file alias="es">locale/kgs_es.qm</file>
+        <file alias="es_ES">locale/kgs_es_ES.qm</file>
+        <file alias="fi">locale/kgs_fi.qm</file>
+        <file alias="fr_FR">locale/kgs_fr_FR.qm</file>
+        <file alias="hi_IN">locale/kgs_hi_IN.qm</file>
+        <file alias="hr">locale/kgs_hr.qm</file>
+        <file alias="hr_HR">locale/kgs_hr_HR.qm</file>
+        <file alias="it">locale/kgs_it.qm</file>
+        <file alias="ja">locale/kgs_ja.qm</file>
+        <file alias="ko_KR">locale/kgs_ko_KR.qm</file>
+        <file alias="lt_LT">locale/kgs_lt_LT.qm</file>
+        <file alias="nl">locale/kgs_nl.qm</file>
+        <file alias="pl">locale/kgs_pl.qm</file>
+        <file alias="pt">locale/kgs_pt.qm</file>
+        <file alias="pt_BR">locale/kgs_pt_BR.qm</file>
+        <file alias="ro_RO">locale/kgs_ro_RO.qm</file>
+        <file alias="ru">locale/kgs_ru.qm</file>
+        <file alias="sk">locale/kgs_sk.qm</file>
+        <file alias="sv">locale/kgs_sv.qm</file>
+        <file alias="tr">locale/kgs_tr.qm</file>
+        <file alias="uk">locale/kgs_uk.qm</file>
+        <file alias="vi">locale/kgs_vi.qm</file>
+        <file alias="zh_CN">locale/kgs_zh_CN.qm</file>
+        <file alias="zh_TW">locale/kgs_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KGS
+Comment=KGS P2P Cryptocurrency
+Comment[fr]=KGS, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=KGS, eşten eşe kriptografik sanal para birimi
+Exec=kgs-qt %u
+Terminal=false
+Type=Application
+Icon=kgs128
+MimeType=x-scheme-handler/kgs;
+Categories=Office;Finance;
